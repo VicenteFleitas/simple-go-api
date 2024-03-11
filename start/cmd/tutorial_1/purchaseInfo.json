@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Nike",
+    "price": 190.99,
+    "amount": 3
+  },
+  {
+    "name": "Adidas",
+    "price": 290.99,
+    "amount": 1
+  }
+]
