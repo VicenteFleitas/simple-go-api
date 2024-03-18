@@ -1,5 +1,5 @@
 module github.com/avukadin/goapi
- 
+
 go 1.21.0
 
 require (
